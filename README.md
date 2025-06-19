@@ -9,6 +9,7 @@ Quivira
 Charlie Mongol
 
 <img width="555" alt="Screenshot 2025-06-19 at 21 34 32" src="https://github.com/user-attachments/assets/53a3d9e0-2f7f-40a2-a525-052677e5393b" />
+
 19-6-25: fixed some Latin letters
 
 * Better form for letter tone six.
